@@ -1,0 +1,24 @@
+{
+  "name": "design-system9292",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -rf ./lib && tsc",
+    "prepare": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "styled-components": "5.2.3"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.26",
+    "@types/react-dom": "^17.0.9",
+    "@types/styled-components": "^5.1.14",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.4.3"
+  }
+}
