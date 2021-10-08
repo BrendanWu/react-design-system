@@ -8,7 +8,8 @@
     "removeComments": true,
     "declaration": false,
     "sourceMap": true,
-    "jsx": "react"
+    "jsx": "react",
+    "esModuleInterop": true
     // "typeRoots": ["index.d.ts", "node_modules/@types"]
   },
   "include": ["./src/**/*.tsx", "./src/**/*.ts"],
